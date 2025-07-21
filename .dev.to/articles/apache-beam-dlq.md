@@ -1,12 +1,11 @@
 ---
-title: "Building a Resilient Exception Strategy with Apache Beam and DLQ"
+title: "Apache Beam DLQ Strategy with Retry and Fallback"
 published: false
-description: "Learn how to build a fault-tolerant pipeline using Apache Beam, with retry strategies and Dead Letter Queue (DLQ) handling."
-tags: apachebeam, java, bigdata, dataengineering
-cover_image: https://raw.githubusercontent.com/leandrofmarcos/apache-beam-dlq-example/main/assets/beam-cover.jpg
-canonical_url: https://github.com/leandrofmarcos/apache-beam-dlq-example
-series: "Resilient Data Pipelines"
+description: "Learn how to implement DLQ, retries, and fallback in Apache Beam with practical Java code"
+tags: ["apachebeam", "java", "dataengineering", "cloud", "bigdata"]
+canonical_url: "https://github.com/leandrofmarcos/apache-beam-dlq-example"
 ---
+
 
 # Building a Resilient Exception Strategy with Apache Beam and DLQ
 
