@@ -1,0 +1,28 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+logs/
+hs_err_pid*
+
+# IDEs
+*.iml
+.idea/
+*.iws
+*.ipr
+*.bak
+*.swp
+*.swo
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Beam outputs
+output/
+dlq/
